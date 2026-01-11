@@ -1,1 +1,1 @@
-Python is a popular, high-level, interpreted programming language known for its simple, readable syntax, making it beginner-friendly and versatile for tasks like web development, data science, AI, automation, and software development. Created by Guido van Rossum in 1991, it's open-source, runs on many platforms, and boasts a vast collection of libraries and frameworks, enabling developers to build complex applications efficiently. 
+This is t1 file.
